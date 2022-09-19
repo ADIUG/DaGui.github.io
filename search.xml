@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>TEST</title>
-    <url>/2022/09/18/TEST-0/</url>
-    <content><![CDATA[<p>这只是一篇测试性文章……</p>
-<img src="/2022/09/18/TEST-0/test.jpg" class="" title="图片引用方法一">
-
-<p><img src="/2022/09/18/TEST-0/test.png" alt="abc图片引用方法二"></p>
-<img src="/2022/09/18/TEST-0/test1.jpg" class="" title="图片引用方法三">
-
-<p><img src="/2022/09/18/TEST-0/test1.png" alt="abc图片引用方法四"></p>
-]]></content>
-      <categories>
-        <category>Jave</category>
-      </categories>
-      <tags>
-        <tag>原创</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/09/18/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -35,5 +17,23 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>TEST</title>
+    <url>/2022/09/18/TEST-0/</url>
+    <content><![CDATA[<p>这只是一篇测试性文章……</p>
+<img data-src="/2022/09/18/TEST-0/test.jpg" class="" title="图片引用方法一">
+
+<p><img data-src="/2022/09/18/TEST-0/test.png" alt="abc图片引用方法二"></p>
+<img data-src="/2022/09/18/TEST-0/test1.jpg" class="" title="图片引用方法三">
+
+<p><img data-src="/2022/09/18/TEST-0/test1.png" alt="abc图片引用方法四"></p>
+]]></content>
+      <categories>
+        <category>Jave</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+      </tags>
   </entry>
 </search>

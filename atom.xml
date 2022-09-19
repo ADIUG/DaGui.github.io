@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DaGui&#39;s Blog</title>
+  
+  <subtitle>Change from now on</subtitle>
+  <link href="https://iugad.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://iugad.github.io/"/>
+  <updated>2022-09-18T09:58:17.795Z</updated>
+  <id>https://iugad.github.io/</id>
+  
+  <author>
+    <name>DaGui</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TEST</title>
+    <link href="https://iugad.github.io/2022/09/18/TEST-0/"/>
+    <id>https://iugad.github.io/2022/09/18/TEST-0/</id>
+    <published>2022-09-18T09:04:15.000Z</published>
+    <updated>2022-09-18T09:58:17.795Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这只是一篇测试性文章……&lt;/p&gt;
+&lt;img data-src=&quot;/2022/09/18/TEST-0/test.jpg&quot; class=&quot;&quot; title=&quot;图片引用方法一&quot;&gt;
+
+&lt;p&gt;&lt;img data-src=&quot;/2022/09/18/TEST-0/test.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Jave" scheme="https://iugad.github.io/categories/Jave/"/>
+    
+    
+    <category term="原创" scheme="https://iugad.github.io/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://iugad.github.io/2022/09/18/hello-world/"/>
+    <id>https://iugad.github.io/2022/09/18/hello-world/</id>
+    <published>2022-09-18T05:57:14.512Z</published>
+    <updated>2022-09-18T05:57:14.513Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
